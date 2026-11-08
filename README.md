@@ -4,6 +4,8 @@ FFXI Ledger is a gil tracker for Ashita v4, made for Phoenix XI. A small window 
 
 It works from what the server already sends your client, the same messages that fill your chat log. The only thing it ever sends is an item move, when you drag an item between your bags yourself.
 
+<img width="1225" height="1120" alt="image" src="https://github.com/user-attachments/assets/c0a44916-59cd-4a65-a3b7-e96acaf642e2" />
+
 ## Features
 
 - **Gil display:** your gil and your Inventory and Mog Satchel counts in a small window you can put anywhere. A bag count changes colour when the bag is nearly full, and again when it's full.
